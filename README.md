@@ -2,17 +2,15 @@
 
 <h1  align='center'>I'm Deepak A passionate developer from India</h1>
 
-<!--
-**Deepak-0205/Deepak-0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align='center'>Little bit about myself </h3>
+
+- 🔭 I’0m currently working on: DSA and Web Development
+- 🌱 I’m currently learning: Backend Development
+- 👯 I’m looking to collaborate on: Web Development
+- 🤔 I’m looking for help with: Web Projects
+- 💬 Ask me about: Electronics and Web Development
+- 📫 How to reach me: deepak.singh_en19@gla.ac.in
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Athlete
